@@ -1,0 +1,8 @@
+C:\Users\user1\Downloads\lab9\CollegeApp\CollegeApp\obj\Debug\net6.0\CollegeApp.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\lab9\CollegeApp\CollegeApp\obj\Debug\net6.0\CollegeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\lab9\CollegeApp\CollegeApp\obj\Debug\net6.0\CollegeApp.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\lab9\CollegeApp\CollegeApp\obj\Debug\net6.0\CollegeApp.AssemblyInfo.cs
+C:\Users\user1\Downloads\lab9\CollegeApp\CollegeApp\obj\Debug\net6.0\CollegeApp.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\lab9\CollegeApp\CollegeApp\obj\Debug\net6.0\CollegeApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Downloads\lab9\CollegeApp\CollegeApp\obj\Debug\net6.0\CollegeApp.RazorAssemblyInfo.cache
+C:\Users\user1\Downloads\lab9\CollegeApp\CollegeApp\obj\Debug\net6.0\CollegeApp.RazorAssemblyInfo.cs
